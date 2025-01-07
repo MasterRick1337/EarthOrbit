@@ -1,0 +1,7 @@
+{
+  "name": "EarthOrbit-App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
